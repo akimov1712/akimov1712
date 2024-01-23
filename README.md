@@ -29,7 +29,7 @@ Android Developer from Russia. Engaged in Android development for over a year. ð
     </picture>
   </a>
   <a href="https://vk.com/xh2004" target="_blank" rel="noreferrer">
-    <img src="https://logospng.org/download/vk/vk-2048.png" width="32" height="32" alt="VK" />
+    <img src="https://i.ibb.co/6gdpxWt/3-Hmq-DF3-V570.png" width="32" height="32" alt="VK" />
   </a>
   <a href="https://t.me/topbuns" target="_blank" rel="noreferrer">
     <img src="https://i.ibb.co/xYz1nJq/1694940144739384-1.png" width="32" height="32" alt="Telegram" />
