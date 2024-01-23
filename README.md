@@ -1,4 +1,4 @@
-Hi 👋 My name is Artem Akimov
+Hi 👋 My name is Artem
 =============================
 
 Android Developer from Russia. Engaged in Android development for over a year. 🚀📱
@@ -41,7 +41,5 @@ Android Developer from Russia. Engaged in Android development for over a year. �
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/akimov1712"><img src="https://github-readme-stats.vercel.app/api?username=akimov1712&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="akimov1712's GitHub stats" /></a>
-
-<a href="http://www.github.com/akimov1712"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=akimov1712&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/akimov1712" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akimov1712&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
