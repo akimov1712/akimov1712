@@ -28,7 +28,7 @@ Android Developer from Russia. Engaged in Android development for over a year. ð
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="https://vk.com/xh2004" target="_blank" rel="noreferrer">
+  <a href="https://vk.com/" target="_blank" rel="noreferrer">
     <img src="https://i.ibb.co/6gdpxWt/3-Hmq-DF3-V570.png" width="32" height="32" alt="VK" />
   </a>
   <a href="https://t.me/topbuns" target="_blank" rel="noreferrer">
