@@ -8,7 +8,6 @@ Android Developer from Russia. Engaged in Android development for over a year. �
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [akimov1712@mail.ru](mailto:akimov1712@mail.ru)
-* 🚀  I'm currently working on [TasteOn](http://apps.rustore.ru/app/ru.topbun.recipes)
 * 🧠  I'm learning Jetpack Compose, MVI
 * 🤝  I'm open to collaborating on interesting project
 
