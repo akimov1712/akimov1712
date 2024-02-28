@@ -1,7 +1,7 @@
 Hi 👋 My name is Artem
 =============================
 
-Android Developer from Russia. Engaged in Android development for over a year. 🚀📱
+Android Developer from Russia. I've been doing Android development for over two years now. 🚀📱
 -----------------------------------------------------------------------------------
 
 👋 I'm an Android Developer based in Russia, dedicated to crafting innovative mobile experiences. With a passion for technology and problem-solving, I've been immersed in the world of Android development for over a year. 🚀📱 <br><br>👨‍💻 My coding journey started in the world of web development, where I delved into creating dynamic and user-friendly interfaces. This early experience laid the foundation for my passion for programming.<br>In addition to my Android focus, I know programming languages like C# and C++ <br><br>🌐 Currently, I am sharpening my expertise with a focus on Jetpack Compose and MVI architecture, striving to stay ahead of the curve and embrace the latest trends in Android development. <br><br>🚧 Amid my ongoing learning journey, I am contributing to the Android developer community and working on exciting projects. You can explore my portfolio and check out the code repositories on my GitHub profile <br><br>📫 Let's connect! Reach out to me at akimov1712@mail.ru if you have any inquiries or just want to chat about all things Android. Your feedback and collaboration are always welcome!
