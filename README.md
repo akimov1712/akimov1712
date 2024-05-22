@@ -8,7 +8,7 @@ Android Developer from Russia. I've been doing Android development for over two 
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [akimov1712@mail.ru](mailto:akimov1712@mail.ru)
-* 🧠  I'm learning Jetpack Compose, MVI
+* 🧠  I'm learning Kotlin Multiplatform (KMM)
 * 🤝  I'm open to collaborating on interesting project
 
 ### Skills
