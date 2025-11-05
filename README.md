@@ -67,7 +67,3 @@ Focused on building high-quality mobile applications using modern Android tools 
   </a>
   &nbsp;
 </p>
-
-<p align="center" style="color:#3DDC84;">
-Made with ❤️
-</p>
