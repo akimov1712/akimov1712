@@ -32,7 +32,7 @@ Focused on building high-quality mobile applications using modern Android tools 
 
 <p align="left">
   <a target="_blank" href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,git,github,figma,idea,ktor," />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,git,github,figma,idea,ktor,firebase,mysql,gitlab,figma,postman" />
   </a>
 </p>
 
